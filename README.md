@@ -8,9 +8,12 @@ This repository is only to collect in one place all (or at least most) of the li
 Este repositório serve apenas para reunir em um único local todos (ou pelo menos a maioria) dos links fornecidos pelo site IGG-Games/PCGamesTorrent para uso no programa Hydra PC. Eu não pirateio jogos, apenas procuro links de outras fontes para colocá-los em um único documento para facilitar o uso. Por favor, evite fazer qualquer solicitação, pois ela não será levada em consideração.
 
 ## ¿Qué es PCGamesTorrents?/What is PCGamesTorrents?/O que é PCGamesTorrents?
-IGG-Games
+### IGG-Games
+
 ![image](https://github.com/user-attachments/assets/e6aa24ae-6f2d-4700-8d76-8adcffa0ac64)
-PCGamesTorrents
+
+### PCGamesTorrents
+
 ![image](https://github.com/user-attachments/assets/5e473a88-ab66-4bd2-b7e6-9ea0852b09af)
 
 ### Español

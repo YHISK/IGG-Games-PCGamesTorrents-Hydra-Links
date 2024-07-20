@@ -28,6 +28,6 @@ Como você pode ver, as páginas são as mesmas. Não sei se são do mesmo propr
 ## Lista de Enlaces/List of Links/lista de links
 ### ✅ Completo/Complete/Completo | ⚠ Trabajando/Working/Trabalhando | ❌ Vacio/Empty/Vácuo
 
-All - [CLICK](hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com%2FYHISK%2FIGG-Games-PCGamesTorrents-Hydra-Links%2Fmain%2Ffiles%2F01.%20PCGameTorrents%20-%20All.json) - ⚠
+All - [CLICK](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/01.%20PCGameTorrents%20-%20All.json) - ⚠
 
-Symbols - [CLICK](hydralauncher://install-source?urls=https%3A%2F%2Fraw.githubusercontent.com%2FYHISK%2FIGG-Games-PCGamesTorrents-Hydra-Links%2Fmain%2Ffiles%2F02.%20PCGameTorrents%20-%20Symbols.json) - ⚠
+Symbols - [CLICK](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/02.%20PCGameTorrents%20-%20Symbols.json) - ⚠

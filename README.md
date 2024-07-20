@@ -23,10 +23,6 @@ As you can see, the pages are the same. I don't know if they are from the same o
 ### Português do Brasil
 Como você pode ver, as páginas são as mesmas. Não sei se são do mesmo proprietário, mas em termos de estética e interface são exatamente iguais. A diferença é que o IGG-Games apresenta links para jogos por meio de sites de download externos, enquanto o PCGamesTorrents apresenta links para os mesmos jogos, mas única e exclusivamente por meio de Torrents. Depois disso, eles são exatamente iguais
 
-## Nota/Note/Observação ⚠
-### Español
-Por el momento no se si voy a hostear por mi propia cuenta el archivo o si lo subiré a los links de la comunidad de Hydra. *Mientras esta nota siga aquí el archivo aun no sera utilizable*.
-### English
-At the moment I don't know if I will host the file myself or if I will upload it to the Hydra community links. *As long as this note is still here the file will not be usable yet*.
-### Português do Brasil
-No momento, não sei se eu mesmo hospedarei o arquivo ou se o enviarei para os links da comunidade Hydra. *Enquanto esta nota ainda estiver aqui, o arquivo ainda não poderá ser usado*.
+## Lista de Enlaces/List of Links/lista de links
+### ✅ Completo/Complete/Completo | ⚠ Trabajando/Working/Trabalhando | ❌ Vacio/Empty/Vácuo
+All - Click - ⚠

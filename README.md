@@ -28,22 +28,22 @@ Como você pode ver, as páginas são as mesmas. Não sei se são do mesmo propr
 ## ¿Como se Utiliza?/How is it used?/Como ele é usado?
 ### Español
 Para agregar una fuente de descarga a Hydra hay 2 opciones:
-    1. Ir a Ajustes → Fuentes de Descarga → Añadir Fuentes y pega el link de la fuente que desea agregar
+1. Ir a Ajustes → Fuentes de Descarga → Añadir Fuentes y pega el link de la fuente que desea agregar
 ### English
 To add a download source to Hydra there are 2 options:
-    1. Go to Settings → Download Fonts → Add Fonts and paste the link of the font you want to add 2.
+1. Go to Settings → Download Fonts → Add Fonts and paste the link of the font you want to add 2.
 ### Português do Brasil
 Para adicionar uma fonte de download ao Hydra, há duas opções:
-    1. vá para Settings → Download Fonts → Add Fonts e cole o link da fonte que você deseja adicionar.
+1. vá para Settings → Download Fonts → Add Fonts e cole o link da fonte que você deseja adicionar.
 ![alt text](image.png)
 ![alt text](image-1.png)
 
 ### Español
-    2. Puede ir a [lista de enlaces](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (mas abajo en este mismo repositorio) y darle click al enlace de la lista que desee agregar. Tambien puede darle click a la lista "All" para agregar todos los enlaces de una sola vez
+2. Puede ir a [lista de enlaces](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (mas abajo en este mismo repositorio) y darle click al enlace de la lista que desee agregar. Tambien puede darle click a la lista "All" para agregar todos los enlaces de una sola vez
 ### English
-    2. You can go to the [list of links](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (below in this repository) and click on the link in the list you want to add. You can also click on the “All” list to add all the links at once.
+2. You can go to the [list of links](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (below in this repository) and click on the link in the list you want to add. You can also click on the “All” list to add all the links at once.
 ### Português do Brasil
-    2. Você pode ir até a [lista de links](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (abaixo neste repositório) e clicar no link da lista que deseja adicionar. Você também pode clicar na lista “All” para adicionar todos os links de uma só vez.
+2. Você pode ir até a [lista de links](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (abaixo neste repositório) e clicar no link da lista que deseja adicionar. Você também pode clicar na lista “All” para adicionar todos os links de uma só vez.
 
 ## Lista de Enlaces/List of Links/lista de links
 ### ✅ Completo/Complete/Completo | ⚠ Trabajando/Working/Trabalhando | ❌ Vacio/Empty/Vácuo

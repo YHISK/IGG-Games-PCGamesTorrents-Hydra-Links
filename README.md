@@ -47,8 +47,10 @@ Para adicionar uma fonte de download ao Hydra, há duas opções:
 2. Você pode ir até a [lista de links](https://github.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links?tab=readme-ov-file#lista-de-enlaceslist-of-linkslista-de-links) (abaixo neste repositório) e clicar no link da lista que deseja adicionar. Você também pode clicar na lista “All” para adicionar todos os links de uma só vez
 
 ## Lista de Enlaces/List of Links/lista de links
-[All](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/01.%20PCGameTorrents%20-%20All.json)
+### ✅ Completo/Complete/Completo | ⚠ Trabajando/Working/Trabalhando | ❌ Vacio/Empty/Vácuo
 
-[Symbols](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/02.%20PCGameTorrents%20-%20Symbols.json)
+[All](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/01.%20PCGameTorrents%20-%20All.json) - ⚠
 
-[Numbers](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/03.%20PCGameTorrents%20-%20Numbers.json)
+[Symbols](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/02.%20PCGameTorrents%20-%20Symbols.json) - ✅ "(not all, but 80% yes)"
+
+[Numbers](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/03.%20PCGameTorrents%20-%20Numbers.json) - ⚠

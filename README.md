@@ -30,4 +30,6 @@ Como você pode ver, as páginas são as mesmas. Não sei se são do mesmo propr
 
 All - [CLICK](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/01.%20PCGameTorrents%20-%20All.json) - ⚠
 
-Symbols - [CLICK](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/02.%20PCGameTorrents%20-%20Symbols.json) - ⚠
+Symbols - [CLICK](hydralauncher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/02.%20PCGameTorrents%20-%20Symbols.json) - ✅ "(not all, but 80% yes)"
+
+Numbers - [CLICK](hydralaucher://install-source?urls=https://raw.githubusercontent.com/YHISK/IGG-Games-PCGamesTorrents-Hydra-Links/main/files/03.%20PCGameTorrents%20-%20Numbers.json) - ⚠
